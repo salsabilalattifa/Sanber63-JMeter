@@ -1,0 +1,221 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738775202085,2565,Login User - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,1258,275,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,2565,0,2244
+1738775203081,1813,Login User - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,1258,275,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,1813,0,1519
+1738775204650,258,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,857,522,6,6,null,0,1,0
+1738775204651,258,Get User Profile - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,857,522,6,6,https://thinking-tester-contact-list.herokuapp.com/users/me,258,0,0
+1738775204895,256,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,861,522,7,7,null,0,0,0
+1738775204895,256,Get User Profile - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,861,522,7,7,https://thinking-tester-contact-list.herokuapp.com/users/me,256,0,0
+1738775202581,2599,Login User - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,1262,275,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,2599,0,2309
+1738775204910,270,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,861,650,7,7,null,0,0,0
+1738775204910,270,Update User - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,861,650,7,7,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1738775205180,271,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,861,522,7,7,null,0,0,0
+1738775205180,271,Get User Profile - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,861,522,7,7,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1738775205181,283,[POST] Add Contact - 1,201,Created,Contact List App - Load Testing 1-1,text,true,,1077,864,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1738775205180,283,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,1077,864,7,7,null,283,1,0
+1738775205452,266,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,861,650,8,8,null,0,0,0
+1738775205452,266,Update User - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,861,650,8,8,https://thinking-tester-contact-list.herokuapp.com/users/me,266,0,0
+1738775205464,273,[GET] Contact List - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,1409,522,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1738775205464,273,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,1409,522,8,8,null,273,0,0
+1738775205718,276,[POST] Add Contact - 2,201,Created,Contact List App - Load Testing 1-2,text,true,,1073,860,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,276,0,0
+1738775205718,276,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,1073,860,8,8,null,276,0,0
+1738775205737,268,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,1072,547,8,8,null,0,1,0
+1738775205737,268,[GET] Contact By ID - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,1072,547,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa6c5ab8b0013f1532d,268,0,0
+1738775205994,273,[GET] Contact List - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,1400,522,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1738775205994,273,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,1400,522,9,9,null,273,0,0
+1738775205151,1132,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,857,650,9,9,null,0,0,0
+1738775205151,1132,Update User - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,857,650,9,9,https://thinking-tester-contact-list.herokuapp.com/users/me,1132,0,0
+1738775206006,278,[PUT] Update Contact - 1,200,OK,Contact List App - Load Testing 1-1,text,true,,1085,957,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa6c5ab8b0013f1532d,278,0,0
+1738775206006,278,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-1,,true,,1085,957,9,9,null,278,0,0
+1738775203580,2830,Login User - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,1258,275,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,2830,0,2541
+1738775206267,270,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,1064,547,9,9,null,0,0,0
+1738775206267,270,[GET] Contact By ID - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,1064,547,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa6e2547b001378f7e5,270,0,0
+1738775206284,274,[POST] Add Contact - 3,201,Created,Contact List App - Load Testing 1-3,text,true,,1071,862,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1738775206283,274,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,1071,862,9,9,null,274,1,0
+1738775206410,255,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,857,522,10,10,null,0,1,0
+1738775206410,255,Get User Profile - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,857,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,255,0,0
+1738775206537,282,[PUT] Update Contact - 2,200,OK,Contact List App - Load Testing 1-2,text,true,,1088,960,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa6e2547b001378f7e5,282,0,0
+1738775206537,282,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-2,,true,,1088,960,10,10,null,282,0,0
+1738775204080,2778,Login User - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,1258,275,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,2778,0,2474
+1738775206558,329,[GET] Contact List - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,1406,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,329,0,0
+1738775206558,329,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,1406,522,10,10,null,329,1,0
+1738775206666,268,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,857,650,10,10,null,0,0,0
+1738775206666,268,Update User - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,857,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,268,0,0
+1738775206858,257,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,857,522,10,10,null,0,0,0
+1738775206858,257,Get User Profile - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,857,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,257,0,0
+1738775206888,267,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,1062,547,10,10,null,0,0,0
+1738775206888,267,[GET] Contact By ID - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,1062,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa7c5ab8b0013f1532f,267,0,0
+1738775206934,286,[POST] Add Contact - 4,201,Created,Contact List App - Load Testing 1-4,text,true,,1073,868,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,286,0,0
+1738775206934,286,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,1073,868,10,10,null,286,0,0
+1738775207115,276,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,853,650,10,10,null,0,1,0
+1738775207116,276,Update User - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,853,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,276,0,0
+1738775207220,271,[GET] Contact List - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,1391,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1738775207220,271,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,1391,522,10,10,null,271,0,0
+1738775207392,274,[POST] Add Contact - 5,201,Created,Contact List App - Load Testing 1-5,text,true,,1069,864,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1738775207392,274,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,1069,864,10,10,null,274,0,0
+1738775207491,267,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,1068,547,10,10,null,0,0,0
+1738775207491,267,[GET] Contact By ID - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,1068,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa8e2547b001378f7e7,267,0,0
+1738775207666,272,[GET] Contact List - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,1402,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1738775207666,272,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,1402,522,10,10,null,272,1,0
+1738775207758,280,[PUT] Update Contact - 4,200,OK,Contact List App - Load Testing 1-4,text,true,,1067,943,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa8e2547b001378f7e7,280,0,0
+1738775207758,280,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-4,,true,,1067,943,10,10,null,280,0,0
+1738775204580,3582,Login User - 6,200,OK,Contact List App - Load Testing 1-6,text,false,"The operation lasted too long: It took 3,582 milliseconds, but should not have lasted longer than 3,000 milliseconds.",1254,275,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,3582,0,3289
+1738775207939,273,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,1072,547,10,10,null,0,0,0
+1738775207939,273,[GET] Contact By ID - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,1072,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa8c5ab8b0013f15330,273,0,0
+1738775205581,2638,Login User - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,1262,275,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,2638,0,2340
+1738775207155,1149,[PUT] Update Contact - 3,200,OK,Contact List App - Load Testing 1-3,text,true,,1088,956,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa7c5ab8b0013f1532f,1149,0,0
+1738775207155,1149,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-3,,true,,1088,956,10,10,null,1149,0,0
+1738775206081,2256,Login User - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,1262,275,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,2256,0,1940
+1738775208162,254,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,861,522,10,10,null,0,2,0
+1738775208163,254,Get User Profile - 6,200,OK,Contact List App - Load Testing 1-6,text,true,,861,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,254,0,0
+1738775208220,257,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,861,522,10,10,null,0,1,0
+1738775208220,257,Get User Profile - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,861,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,257,0,0
+1738775208212,279,[PUT] Update Contact - 5,200,OK,Contact List App - Load Testing 1-5,text,true,,1090,958,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa8c5ab8b0013f15330,279,0,0
+1738775208212,279,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-5,,true,,1090,958,10,10,null,279,0,0
+1738775208338,261,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,861,522,10,10,null,0,0,0
+1738775208338,261,Get User Profile - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,861,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1738775208418,270,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,861,650,10,10,null,0,0,0
+1738775208418,270,Update User - 6,200,OK,Contact List App - Load Testing 1-6,text,true,,861,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1738775208478,273,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,861,650,10,10,null,0,0,0
+1738775208478,273,Update User - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,861,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,273,0,0
+1738775205079,3798,Login User - 7,200,OK,Contact List App - Load Testing 1-7,text,false,"The operation lasted too long: It took 3,798 milliseconds, but should not have lasted longer than 3,000 milliseconds.",1262,275,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,3798,0,3503
+1738775208688,277,[POST] Add Contact - 6,201,Created,Contact List App - Load Testing 1-6,text,true,,1091,878,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,277,0,0
+1738775208688,277,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,1091,878,10,10,null,277,1,0
+1738775208751,274,[POST] Add Contact - 8,201,Created,Contact List App - Load Testing 1-8,text,true,,1081,868,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1738775208751,274,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,1081,868,10,10,null,274,0,0
+1738775208877,258,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,857,522,10,10,null,0,1,0
+1738775208878,258,Get User Profile - 7,200,OK,Contact List App - Load Testing 1-7,text,true,,857,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,258,0,0
+1738775208966,274,[GET] Contact List - 6,200,OK,Contact List App - Load Testing 1-6,text,true,,1427,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1738775208966,274,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,1427,522,10,10,null,274,0,0
+1738775209025,283,[GET] Contact List - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,1405,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1738775209025,283,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,1405,522,10,10,null,283,0,0
+1738775209136,273,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,857,650,10,10,null,0,0,0
+1738775209136,273,Update User - 7,200,OK,Contact List App - Load Testing 1-7,text,true,,857,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,273,0,0
+1738775209240,269,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,1082,547,10,10,null,0,0,0
+1738775209240,269,[GET] Contact By ID - 6,200,OK,Contact List App - Load Testing 1-6,text,true,,1082,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa9e2547b001378f7eb,269,0,0
+1738775208599,951,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,857,650,10,10,null,0,1,0
+1738775208600,951,Update User - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,857,650,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,951,0,0
+1738775209308,272,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,1072,547,10,10,null,0,1,0
+1738775209308,272,[GET] Contact By ID - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,1072,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa9e2547b001378f7ec,272,0,0
+1738775209410,271,[POST] Add Contact - 7,201,Created,Contact List App - Load Testing 1-7,text,true,,1076,867,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1738775209410,271,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,1076,867,10,10,null,271,0,0
+1738775209509,281,[PUT] Update Contact - 6,200,OK,Contact List App - Load Testing 1-6,text,true,,1081,953,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa9e2547b001378f7eb,281,0,0
+1738775209509,281,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-6,,true,,1081,953,10,10,null,281,1,0
+1738775209581,277,[PUT] Update Contact - 8,200,OK,Contact List App - Load Testing 1-8,text,true,,1092,964,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aa9e2547b001378f7ec,277,0,0
+1738775209581,277,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-8,,true,,1092,964,10,10,null,277,0,0
+1738775209681,274,[GET] Contact List - 7,200,OK,Contact List App - Load Testing 1-7,text,true,,1399,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1738775209681,274,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,1399,522,10,10,null,274,0,0
+1738775209551,433,[POST] Add Contact - 9,201,Created,Contact List App - Load Testing 1-9,text,true,,1078,869,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,433,0,0
+1738775209551,433,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,1078,869,10,10,null,433,0,0
+1738775209955,266,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,1067,547,10,10,null,0,0,0
+1738775209955,266,[GET] Contact By ID - 7,200,OK,Contact List App - Load Testing 1-7,text,true,,1067,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aaac5ab8b0013f15332,266,0,0
+1738775210221,283,[PUT] Update Contact - 7,200,OK,Contact List App - Load Testing 1-7,text,true,,1072,948,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aaac5ab8b0013f15332,283,0,0
+1738775210221,283,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-7,,true,,1072,948,10,10,null,283,0,0
+1738775206581,4065,Login User - 10,200,OK,Contact List App - Load Testing 1-10,text,false,"The operation lasted too long: It took 4,065 milliseconds, but should not have lasted longer than 3,000 milliseconds.",1256,276,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,4065,0,3389
+1738775209984,753,[GET] Contact List - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,1413,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,753,0,0
+1738775209984,753,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,1413,522,10,10,null,753,0,0
+1738775210646,256,[GET] User Profile,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,855,522,10,10,null,0,1,0
+1738775210647,256,Get User Profile - 10,200,OK,Contact List App - Load Testing 1-10,text,true,,855,522,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,256,0,0
+1738775210737,284,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,1069,547,10,10,null,0,0,0
+1738775210737,284,[GET] Contact By ID - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,1069,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aaac5ab8b0013f15333,284,0,0
+1738775210903,269,[PATCH] Update User,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,859,651,10,10,null,0,0,0
+1738775210903,269,Update User - 10,200,OK,Contact List App - Load Testing 1-10,text,true,,859,651,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,269,0,0
+1738775211021,288,[PUT] Update Contact - 9,200,OK,Contact List App - Load Testing 1-9,text,true,,1093,965,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aaac5ab8b0013f15333,288,0,0
+1738775211021,288,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-9,,true,,1093,965,10,10,null,288,0,0
+1738775211173,272,[POST] Add Contact - 10,201,Created,Contact List App - Load Testing 1-10,text,true,,1079,870,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1738775211172,272,[POST] Add Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,1079,870,10,10,null,272,1,0
+1738775211445,272,[GET] Contact List - 10,200,OK,Contact List App - Load Testing 1-10,text,true,,1402,522,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1738775211445,272,[GET] Contact List,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,1402,522,10,10,null,272,0,0
+1738775211717,267,[GET] Contact List By ID ,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,1074,547,10,10,null,0,0,0
+1738775211717,267,[GET] Contact By ID - 10,200,OK,Contact List App - Load Testing 1-10,text,true,,1074,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aace2547b001378f7ee,267,0,0
+1738775211985,282,[PUT] Update Contact - 10,200,OK,Contact List App - Load Testing 1-10,text,true,,1076,948,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a39aace2547b001378f7ee,282,0,0
+1738775211985,282,[PUT] Update Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contact List App - Load Testing 1-10,,true,,1076,948,10,10,null,282,0,0
+1738775206285,30237,Delete Contact - 1,503,Service Unavailable,Contact List App - Load Testing 1-1,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,30237,0,0
+1738775206284,30237,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-1,,false,,1220,545,10,10,null,30237,1,0
+1738775236522,1,Logout - User ke 1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,10,10,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775206819,30238,Delete Contact - 2,503,Service Unavailable,Contact List App - Load Testing 1-2,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/,30238,0,0
+1738775206819,30238,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-2,,false,,1220,545,9,9,null,30238,0,0
+1738775237057,1,Logout - User ke 2,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,9,9,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775208038,30239,Delete Contact - 4,503,Service Unavailable,Contact List App - Load Testing 1-4,text,false,Test failed: text expected to contain /Contact deleted/,1224,545,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/,30239,0,0
+1738775208038,30239,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-4,,false,,1224,545,8,8,null,30239,0,0
+1738775238277,1,Logout - User ke 4,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,8,8,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775208304,30239,Delete Contact - 3,503,Service Unavailable,Contact List App - Load Testing 1-3,text,false,Test failed: text expected to contain /Contact deleted/,1224,545,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/,30239,0,0
+1738775208304,30239,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-3,,false,,1224,545,7,7,null,30239,0,0
+1738775238544,0,Logout - User ke 3,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,7,7,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775208491,30240,Delete Contact - 5,503,Service Unavailable,Contact List App - Load Testing 1-5,text,false,Test failed: text expected to contain /Contact deleted/,1224,545,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/,30240,0,0
+1738775208491,30240,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-5,,false,,1224,545,6,6,null,30240,0,0
+1738775238731,1,Logout - User ke 5,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,6,6,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775209791,30239,Delete Contact - 6,503,Service Unavailable,Contact List App - Load Testing 1-6,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,30239,0,0
+1738775209791,30239,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-6,,false,,1220,545,5,5,null,30239,0,0
+1738775240031,0,Logout - User ke 6,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,5,5,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775209858,30237,Delete Contact - 8,503,Service Unavailable,Contact List App - Load Testing 1-8,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,30237,0,0
+1738775209858,30237,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-8,,false,,1220,545,4,4,null,30237,0,0
+1738775240095,1,Logout - User ke 8,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,4,4,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775210504,30239,Delete Contact - 7,503,Service Unavailable,Contact List App - Load Testing 1-7,text,false,Test failed: text expected to contain /Contact deleted/,1216,545,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/,30239,0,0
+1738775210504,30239,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-7,,false,,1216,545,3,3,null,30239,0,0
+1738775240743,1,Logout - User ke 7,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,3,3,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775211309,30245,Delete Contact - 9,503,Service Unavailable,Contact List App - Load Testing 1-9,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,30245,0,0
+1738775211309,30245,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-9,,false,,1220,545,2,2,null,30245,0,0
+1738775241554,1,Logout - User ke 9,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,2,2,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
+1738775212268,30249,Delete Contact - 10,503,Service Unavailable,Contact List App - Load Testing 1-10,text,false,Test failed: text expected to contain /Contact deleted/,1220,545,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,30249,0,0
+1738775212267,30249,[DELETE] Delete Contact,,"Number of samples in transaction : 1, number of failing samples : 1",Contact List App - Load Testing 1-10,,false,,1220,545,1,1,null,30249,1,0
+1738775242517,1,Logout - User ke 10,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Contact List App - Load Testing 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2124,0,1,1,https://thinking-tester-contact-list.herokuapp.com/users/logout,0,0,0
