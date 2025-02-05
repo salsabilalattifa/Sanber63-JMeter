@@ -1,0 +1,11 @@
+firstName,lastName,birthdate,email,phone,street1,street2,city,stateProvince,postalCode,country
+Jane,Smith,1985-11-22,jane.smith@example.com,87467287471,456 Oak Ave,Apt 2A,Springfield,IL,62704,USA
+David,Lee,1992-03-08,david.lee@example.com,93647813754,789 Pine Ln,Apt 2B,Riverdale,NY,10471,USA
+Sarah,Jones,1988-09-17,sarah.jones@example.com,78235532521,101 Elm St,Apt 2C,Maplewood,NJ,7040,USA
+Michael,Brown,1995-06-29,michael.brown@example.com,19498735444,222 Cedar Rd,Apt 2A,Lakewood,CO,80226,USA
+Emily,Davis,1991-12-05,emily.davis@example.com,99318734615,333 Birch Ct,Apt 2B,Portland,OR,97201,USA
+Christopher,Wilson,1987-04-12,christopher.wilson@example.com,21499276421,444 Willow Dr,Apt 2C,Seattle,WA,98101,USA
+Jessica,Garcia,1993-10-26,jessica.garcia@example.com,5552223333,555 Maple Ave,Apt 2A,Austin,TX,78701,USA
+Kevin,Rodriguez,1989-07-03,kevin.rodriguez@example.com,5556667777,666 Oak St,Apt 2B,Denver,CO,80202,USA
+Ashley,Martinez,1996-01-19,ashley.martinez@example.com,5554445555,777 Pine Rd,Apt 2C,Chicago,IL,60601,USA
+Maria,Garcia,1994-02-14,maria.garcia@example.com,5551212121,888 Elm Street,Apt 2A,Los Angeles,CA,90001,USA

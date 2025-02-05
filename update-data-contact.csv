@@ -1,0 +1,16 @@
+firstName,lastName,birthdate,email,phone,street1,street2,city,stateProvince,postalCode,country
+Agus,Pratama,1990-05-12,agus.pratama@email.com,081234567890,Jl. Merdeka 10,Blok A,Jakarta,DKI Jakarta,10110,Indonesia
+Siti,Rahmawati,1988-09-23,siti.rahma@email.com,081298765432,Jl. Kenanga 5,RT 02/RW 04,Bandung,Jawa Barat,40123,Indonesia
+Budi,Santoso,1995-12-30,budi.santoso@email.com,081345678901,Jl. Melati 20,Blok C,Surabaya,Jawa Timur,60245,Indonesia
+Dewi,Lestari,1992-07-14,dewi.lestari@email.com,082134567890,Jl. Mawar 3,,Yogyakarta,DIY,55281,Indonesia
+Rudi,Hartono,1986-11-02,rudi.hartono@email.com,082198765432,Jl. Anggrek 15,Blok B,Semarang,Jawa Tengah,50132,Indonesia
+Fitri,Anjani,1998-06-18,fitri.anjani@email.com,081356789012,Jl. Flamboyan 7,,Medan,Sumatera Utara,20234,Indonesia
+Dedy,Kurniawan,1993-04-21,dedy.kurnia@email.com,082278901234,Jl. Cempaka 12,Blok D,Makassar,Sulawesi Selatan,90125,Indonesia
+Rina,Puspita,1997-08-09,rina.puspita@email.com,081289765432,Jl. Teratai 6,,Malang,Jawa Timur,65145,Indonesia
+Andi,Wijaya,1989-03-11,andi.wijaya@email.com,081398765210,Jl. Dahlia 8,RT 05/RW 03,Palembang,Sumatera Selatan,30151,Indonesia
+Lina,Saputri,1994-10-25,lina.saputri@email.com,082312345678,Jl. Bougenville 9,,Denpasar,Bali,80232,Indonesia
+Joko,Setiawan,1985-01-15,joko.setiawan@email.com,081456789012,Jl. Cemara 11,,Balikpapan,Kalimantan Timur,76123,Indonesia
+Wati,Kusuma,1991-12-05,wati.kusuma@email.com,082398712345,Jl. Merpati 2,,Banjarmasin,Kalimantan Selatan,70119,Indonesia
+Rizky,Ramadhan,1996-07-30,rizky.rama@email.com,081267890123,Jl. Kenari 4,,Pekanbaru,Riau,28112,Indonesia
+Anisa,Sari,1999-02-17,anisa.sari@email.com,081234567654,Jl. Soka 10,,Padang,Sumatera Barat,25136,Indonesia
+Bayu,Nugroho,1993-09-08,bayu.nugroho@email.com,081398765321,Jl. Pinus 6,,Pontianak,Kalimantan Barat,78122,Indonesia
